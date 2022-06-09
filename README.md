@@ -1,3 +1,5 @@
+![Downloads badge](https://get-badge.herokuapp.com/Android1500/AndroidFaker/total)
+
 # Android Faker [XPOSED]
 
 
