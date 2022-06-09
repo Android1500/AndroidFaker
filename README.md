@@ -52,5 +52,5 @@ This Module will Support Android 8.1 +
 ## License
 [GNU General Public License version 3](https://www.gnu.org/licenses/gpl-3.0.txt)
 
-GPS Setter is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+Android Faker is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
