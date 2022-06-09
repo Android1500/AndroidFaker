@@ -1,4 +1,4 @@
-![Downloads badge](https://get-badge.herokuapp.com/Android1500/AndroidFaker/total)
+[![Github All Releases](https://img.shields.io/github/downloads/Android1500/AndroidFaker/total.svg)]()
 
 # Android Faker [XPOSED]
 
