@@ -31,6 +31,8 @@ This Module will Support Android 8.1 +
 -> Sim Serial Id <br />
 -> Sim Sub Ids <br />
 -> Mobile No  <br />
+-> MediaDrm ID  <br />
+-> Sim Operator  <br />
 
 #### !!..REQUIREMENT..!!
 
