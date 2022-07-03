@@ -4,7 +4,7 @@
 
 
 
-[![Github All Releases](https://img.shields.io/github/downloads/Android1500/AndroidFaker/total.svg)]() [![GitHub license](https://img.shields.io/github/license/Android1500/AndroidFaker)](https://github.com/Android1500/AndroidFaker/blob/main/LICENSE)   [![GitHub stars](https://img.shields.io/github/stars/Android1500/AndroidFaker)](https://github.com/Android1500/AndroidFaker/stargazers) 
+[![Github All Releases](https://img.shields.io/github/downloads/Android1500/AndroidFaker/total.svg)]()   [![GitHub stars](https://img.shields.io/github/stars/Android1500/AndroidFaker)](https://github.com/Android1500/AndroidFaker/stargazers) 
 
 
 ### Support/Discussion: [XDA thread](https://forum.xda-developers.com/t/app-xposed-5-0-11-x-android-faker-a-module-for-spoof-your-device.4284233/)
@@ -54,9 +54,3 @@ This Module will Support Android 8.1 +
 #### Note :-  This Module never change real ids so don't ask Can i spoof my service providers and do anything wrong or right and they will never trace you. 
 
 #### Disclaimer:- The Author and Contributors of Android Faker take no responsibility for damage to your device or any other consequences that arise as a result of using this application So use your own Risk.
-
-## License
-[GNU General Public License version 3](https://www.gnu.org/licenses/gpl-3.0.txt)
-
-Android Faker is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-
