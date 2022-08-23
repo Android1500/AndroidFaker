@@ -1,5 +1,7 @@
 # Android Faker [XPOSED]
 
+## This project Deprecated (No more update) 
+
 
 
 
