@@ -1,10 +1,9 @@
 # Android Faker [XPOSED]
 
-## This project Deprecated (No more update) 
 
 
 
-
+[![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/androidfakerofficial)
 [![Github All Releases](https://img.shields.io/github/downloads/Android1500/AndroidFaker/total?label=Release)]()   [![GitHub stars](https://img.shields.io/github/stars/Android1500/AndroidFaker)](https://github.com/Xposed-Modules-)
 [![Blank](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.android1500.androidfaker/total?label=LSPosed%20Repo&logo=Android&style=flat&labelColor=F48FB1&logoColor=ffffff)](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker/releases)
 
