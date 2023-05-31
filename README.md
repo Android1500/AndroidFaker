@@ -58,4 +58,4 @@ This Module will Support Android 8.1 +
 
 #### Note :-  This Module never change real ids so don't ask Can i spoof my service providers and do anything wrong or right and they will never trace you. 
 
-#### Disclaimer:- The Author and Contributors of Android Faker take no responsibility for damage to your device or any other consequences that arise as a result of using this application So use your own Risk.
+#### Term & Condition:- The Author and Contributors of Android Faker take no responsibility for damage to your device or any other consequences that arise as a result of using this application So use your own Risk for [more](https://github.com/Android1500/Privacy-policy/blob/main/README.md).
