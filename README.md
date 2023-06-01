@@ -4,7 +4,8 @@
 
 
 [![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/androidfakerofficial)
-[![Github All Releases](https://img.shields.io/github/downloads/Android1500/AndroidFaker/total?label=Release)]()   [![GitHub stars](https://img.shields.io/github/stars/Android1500/AndroidFaker)](https://github.com/Xposed-Modules-)
+[![Github All Releases](https://img.shields.io/github/downloads/Android1500/AndroidFaker/total?label=Release)]()  
+[![GitHub stars](https://img.shields.io/github/stars/Android1500/AndroidFaker)](https://github.com/Xposed-Modules-)
 [![Blank](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.android1500.androidfaker/total?label=LSPosed%20Repo&logo=Android&style=flat&labelColor=F48FB1&logoColor=ffffff)](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker/releases)
 
 ![](https://github.com/Android1500/AndroidFaker/blob/main/banner.png) 
@@ -14,7 +15,7 @@
 
 ### Support/Discussion: [XDA thread](https://forum.xda-developers.com/t/app-xposed-5-0-11-x-android-faker-a-module-for-spoof-your-device.4284233/)
 
-So i was try to learn About Xposed Framwork more Deep then i was think why should not try for make my own module so i started work on it and try to learn things how xposed framworks works and how xposed framework hook into system then after learning i made this app its a simple xposed module which will help you to spoof your device ids so you can save your real ids and Android Faker Aim Is To Spoof The Values From Third Party Apps Which Tracks Users And Their Personal Data
+Its a simple xposed module which will help you to spoof your device ids so you can save your real ids and Android Faker Aim Is To Spoof The Values From Third Party Apps Which Tracks Users And Their Personal Data.
 
 
 
